@@ -25,6 +25,8 @@ Practical Tips
 
 1. If the OA has a good number of allowed claims: ask the managing attorney to ask client if OK with moving forward with allowed claims. And file continuations for outstanding limitations. Helps avoid allowance withdrawals.
 
+***
+
 Miscellaneous
 =============
 
