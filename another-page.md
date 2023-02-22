@@ -1,6 +1,5 @@
----
+
 layout: normal
----
 
 Prosecution Guidebook
 =====================
