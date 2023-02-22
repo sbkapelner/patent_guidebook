@@ -18,7 +18,7 @@ Review Procedure - Anticipation
 Presentation - Anticipation
 -------------------------------
 
-How does the cited reference map to the claimed invention. Get the drawings up and go item by item. Steps 1 and 2 of your procedure but get the drawings side by side to present to the partner.
+How does the cited reference map to the claimed invention? Get the drawings up and go item by item. Steps 1 and 2 of your procedure but get the drawings side by side to present to the partner.
 
 Practical Tips
 --------------
@@ -39,5 +39,5 @@ Partner Emails
 Partner Calls
 -------------
 
-1. Open with this is case number: 09801 )matter id)
+1. Open with this is case number: 12345 (matter id)
 2. No files on mac --> will likely need to share screen
