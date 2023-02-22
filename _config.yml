@@ -3,6 +3,3 @@ description: Hacker is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
-
-url: https://sbkapelner.github.io/patent_guidebook
-baseurl: /another-page
