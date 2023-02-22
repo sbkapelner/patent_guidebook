@@ -2,13 +2,8 @@
 layout: normal
 ---
 
-Prosecution Guidebook
-=====================
-
-Sarah Kapelner
---------------
-
-**Office Actions - Anticipation**
+Office Actions - Anticipation
+=============================
 
 1.  Examiner mistakes/map OA to claimed invention elements
 2.  Did they call a spade a spade?
