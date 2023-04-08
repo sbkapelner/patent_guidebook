@@ -60,6 +60,8 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 
 # Miscellaneous
 
+***
+
 ## Partner Emails
 
 1. Ask how long should this take me?
