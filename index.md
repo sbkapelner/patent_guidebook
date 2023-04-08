@@ -50,7 +50,7 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 # National Stage Filings of PCT Applications
 
 ## Patent Prosecution Highway
-<li> The examiner in subsequent countries of filing is not (rarely) going to look at references cited by examiner in OFF (Office of First Filing).
+- The examiner in subsequent countries of filing is not (rarely) going to look at references cited by examiner in OFF (Office of First Filing).
 
 ## PPH Requirements by Country
 1. (Create a table here for U.S. and China with 1. Claim scope and 2. Timing for request)
