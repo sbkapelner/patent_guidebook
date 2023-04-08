@@ -40,6 +40,24 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 
 ***
 
+# Continuations
+
+## Continuation Claim Set
+1. (Fill in with 12511 technique here)
+
+***
+
+# National Stage Filings of PCT Applications
+
+## Patent Prosecution Highway
+<li> The examiner in subsequent countries of filing is not (rarely) going to look at references cited by examiner in OFF (Office of First Filing).
+
+## PPH Requirements by Country
+1. (Create a table here for U.S. and China with 1. Claim scope and 2. Timing for request)
+
+## Table of Excess Claim Fees by Country
+1. (Create a table here)
+
 # Miscellaneous
 
 ## Partner Emails
