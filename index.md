@@ -58,6 +58,15 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 ## Table of Excess Claim Fees by Country
 1. (Create a table here)
 
+***
+
+# Billing
+- Office Action Response = $3,000 - $3,200 (for experienced attorney)
+    - If you are going to exceed this ask the billing attorney permission to bill more.
+    - If you are the billing attorney, confer with the client.
+
+***
+
 # Miscellaneous
 
 ***
