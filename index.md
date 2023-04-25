@@ -1,6 +1,7 @@
 ---
 layout: normal
 ---
+#
 
 # Office Actions
 
@@ -43,7 +44,12 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 # Continuations
 
 ## Continuation Claim Set
-1. (Fill in with 12511 technique here)
+1. Check if there are **already drafted claims in the provisional**.
+2. Options if the cited art has ABCD --> draft ABCDE (tack on an element), ABCE (swap out an element), ABCEF (swap out and tack on an element)
+3. Look in the specification of the parent for additional limittions ("Es") or better yet in the specification of the provisional.
+4. Other tips:
+    - To prevent design around, broaden claims in the continuation.
+    - Draft broader claims in the continuation that you didn't claim in the parent and that are not in the cited art.
 
 ***
 
@@ -53,10 +59,25 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 - The examiner in subsequent countries of filing is not (rarely) going to look at references cited by examiner in OFF (Office of First Filing).
 
 ## PPH Requirements by Country
-1. (Create a table here for U.S. and China with 1. Claim scope and 2. Timing for request)
+| Country           | Timing for Request                                                                             | Claim Scope                                                    |
+| :---------------- | :--------------------------------------------------------------------------------------------- |:-------------------------------------------------------------- |
+| United States     | Before substantive examination (not restriction requirement, not notice to file missing parts) | Same as OEE app or narrower if in dependent form               |
+| China             | After the notice of entrance into substantive examination and before the first OA              | Same as OEE app or narrower if in dependent form               |
+| EP                | Before substantive examination                                                                 | Same as OEE or EPO OLE claims have narrower scope; no new cats |
 
 ## Table of Excess Claim Fees by Country
-1. (Create a table here)
+| Country           | Excess Claim Fee | 
+| :---------------- | :--------------- |
+| United States     | 20               |
+| China             | 10               |
+| IL                | 50               |
+| IN                | 10               |
+| JP                | None             |
+| Singapore         | 20               |
+| EP                | 15               |
+| Germany           | 10               |
+| UK                | 25               |
+| Brazil            | 10               |
 
 ***
 
