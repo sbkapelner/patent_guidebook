@@ -2,21 +2,21 @@
 layout: normal
 ---
 # Table of Contents
-[Office Actions](#office-actions)
-[Anticipation Review Procedure](#anticipation-review-procedure)
-[Anticipation Presentation](#anticipation-presentation)
-[Obviousness Review Procedure](#obviousness-review-procedure)
-[Practical Tips](#practical-tips)
-[Continuations](#continuations)
-[Continuation Claim Set](#continuation-claim-set)
-[National Stage Filings of PCT Applications](#national-stage-filings-of-pct-applications)
-[Patent Prosecution Highway](#patent-prosecution-highway)
-[PPH Requirements by Country](#patent-prosecution-highway)
-[Table of Excess Claim Fees by Country](#table-of-excess-claim-fees-by-country)
-[Billing](#billing)
-[Miscellaneous](#miscellaneous)
-[Partner Emails](#partner-emails)
-[Partner Calls](#partner-calls)
+[Office Actions](#office-actions)\
+[Anticipation Review Procedure](#anticipation-review-procedure)\
+[Anticipation Presentation](#anticipation-presentation)\
+[Obviousness Review Procedure](#obviousness-review-procedure)\
+[Practical Tips](#practical-tips)\
+[Continuations](#continuations)\
+[Continuation Claim Set](#continuation-claim-set)\
+[National Stage Filings of PCT Applications](#national-stage-filings-of-pct-applications)\
+[Patent Prosecution Highway](#patent-prosecution-highway)\
+[PPH Requirements by Country](#patent-prosecution-highway)\
+[Table of Excess Claim Fees by Country](#table-of-excess-claim-fees-by-country)\
+[Billing](#billing)\
+[Miscellaneous](#miscellaneous)\
+[Partner Emails](#partner-emails)\
+[Partner Calls](#partner-calls)\
 
 ***
 
