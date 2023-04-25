@@ -121,6 +121,7 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 <br>
 <br>
 Copyright (c) 2023 Sarah Kapelner.
-\All Rights Reserved.
+<br>
+All Rights Reserved.
 <br>
 <br>
