@@ -2,25 +2,25 @@
 layout: normal
 ---
 # Table of Contents
-[Office Actions](#office-actions)\
-[Anticipation Review Procedure](#anticipation-review-procedure)\
-[Anticipation Presentation](#anticipation-presentation)\
-[Obviousness Review Procedure](#obviousness-review-procedure)\
-[Practical Tips](#practical-tips)\
-[Continuations](#continuations)\
-[Continuation Claim Set](#continuation-claim-set)\
-[National Stage Filings of PCT Applications](#national-stage-filings-of-pct-applications)\
-[Patent Prosecution Highway](#patent-prosecution-highway)\
-[PPH Requirements by Country](#patent-prosecution-highway)\
-[Table of Excess Claim Fees by Country](#table-of-excess-claim-fees-by-country)\
-[Billing](#billing)\
-[Miscellaneous](#miscellaneous)\
-[Partner Emails](#partner-emails)\
-[Partner Calls](#partner-calls)\
+[OFFICE ACTIONS](#office-actions)\
+    [Anticipation Review Procedure](#anticipation-review-procedure)\
+    [Anticipation Presentation](#anticipation-presentation)\
+    [Obviousness Review Procedure](#obviousness-review-procedure)\
+    [Practical Tips](#practical-tips)\
+[CONTINUATIONS](#continuations)\
+    [Continuation Claim Set](#continuation-claim-set)\
+[NATIONAL STAGE FILINGS OF PCT APPLICTIONS](#national-stage-filings-of-pct-applications)\
+    [Patent Prosecution Highway](#patent-prosecution-highway)\
+    [PPH Requirements by Country](#patent-prosecution-highway)\
+    [Table of Excess Claim Fees by Country](#table-of-excess-claim-fees-by-country)\
+[BILLING](#billing)\
+[MISCELLANEOUS](#miscellaneous)\
+    [Partner Emails](#partner-emails)\
+    [Partner Calls](#partner-calls)
 
 ***
 
-# Office Actions
+# OFFICE ACTIONS
 
 ## Anticipation Review Procedure
 
@@ -57,7 +57,7 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 
 ***
 
-# Continuations
+# CONTINUATIONS
 
 ## Continuation Claim Set
 1. Check if there are **already drafted claims in the provisional**.
@@ -69,7 +69,7 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 
 ***
 
-# National Stage Filings of PCT Applications
+# NATIONAL STAGE FILINGS OF PCT APPLICATIONS
 
 ## Patent Prosecution Highway
 - The examiner in subsequent countries of filing is not (rarely) going to look at references cited by examiner in OFF (Office of First Filing).
@@ -97,14 +97,14 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 
 ***
 
-# Billing
+# BILLING
 - Office Action Response = $3,000 - $3,200 (for experienced attorney)
     - If you are going to exceed this ask the billing attorney permission to bill more.
     - If you are the billing attorney, confer with the client.
 
 ***
 
-# Miscellaneous
+# MISCELLANEOUS
 
 ## Partner Emails
 
