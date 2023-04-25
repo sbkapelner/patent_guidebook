@@ -61,6 +61,7 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 ## PPH Requirements by Country
 | Country           | Timing for Request                                                                             | Claim Scope                                                    |
 | :---------------- | :--------------------------------------------------------------------------------------------- |:-------------------------------------------------------------- |
+
 | United States     | Before substantive examination (not restriction requirement, not notice to file missing parts) | Same as OEE app or narrower if in dependent form               |
 | China             | After the notice of entrance into substantive examination and before the first OA              | Same as OEE app or narrower if in dependent form               |
 | EP                | Before substantive examination                                                                 | Same as OEE or EPO OLE claims have narrower scope; no new cats |
@@ -68,6 +69,7 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 ## Table of Excess Claim Fees by Country
 | Country           | Excess Claim Fee | 
 | :---------------- | :--------------- |
+
 | United States     | 20               |
 | China             | 10               |
 | IL                | 50               |
