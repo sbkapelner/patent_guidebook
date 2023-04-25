@@ -6,7 +6,6 @@ layout: normal
 # Office Actions
 
 ## Review Procedure - Anticipation
-{: #link1 }
 
 1.  Examiner mistakes/map OA to claimed invention elements
 2.  Did they call a spade a spade?
@@ -22,7 +21,7 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 ## Review Procedure - Obviousness
 
 1. **All elements test**
-    1. **See [Review Procedure - Anticipation steps 1 and 2](#link1)**
+    1. **See [Review Procedure - Anticipation steps 1 and 2](#review-procedure-anticipation)**
 2. Commerical success
 3. long felt need
 4. Failure of others
