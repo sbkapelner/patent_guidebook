@@ -1,7 +1,7 @@
 ---
 layout: normal
 ---
-# Table of Contents
+# TABLE OF CONTENTS
 [OFFICE ACTIONS](#office-actions)\
     [Anticipation Review Procedure](#anticipation-review-procedure)\
     [Anticipation Presentation](#anticipation-presentation)\
