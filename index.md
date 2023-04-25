@@ -5,7 +5,7 @@ layout: normal
 
 # Office Actions
 
-## Review Procedure - Anticipation
+## Anticipation Review Procedure
 
 1.  Examiner mistakes/map OA to claimed invention elements
 2.  Did they call a spade a spade?
@@ -14,14 +14,14 @@ layout: normal
 5.  Prosecution history review
 6.  Recommendations
 
-## Presentation - Anticipation
+## Anticipation Presentation
 
 How does the cited reference map to the claimed invention? Get the drawings up and go item by item. Steps 1 and 2 of your procedure but get the drawings side by side to present to the partner.
 
-## Review Procedure - Obviousness
+## Obviousness Review Procedure
 
 1. **All elements test**
-    1. **See [Review Procedure - Anticipation steps 1 and 2](#review-procedure-anticipation)**
+    1. **See [Review Procedure - Anticipation steps 1 and 2](#anticipation-review-procedure)**
 2. Commerical success
 3. long felt need
 4. Failure of others
