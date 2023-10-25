@@ -7,8 +7,10 @@ layout: normal
 [Anticipation Presentation](#anticipation-presentation)\
 [Obviousness Review Procedure](#obviousness-review-procedure)\
 [Practical Tips](#practical-tips)\
-[CONTINUATIONS](#continuations)\
+[DRAFTING](#drafting)\
+[General Claim Drafting](#general-claim-drafting)\
 [Continuation Claim Set](#continuation-claim-set)\
+[Continuation In Part](#continuation-in-part)\
 [NATIONAL STAGE FILINGS OF PCT APPLICTIONS](#national-stage-filings-of-pct-applications)\
 [Patent Prosecution Highway](#patent-prosecution-highway)\
 [PPH Requirements by Country](#patent-prosecution-highway)\
@@ -57,7 +59,9 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 
 ***
 
-# CONTINUATIONS
+# DRAFTING
+
+## General Claim Drafting
 
 ## Continuation Claim Set
 1. Check if there are **already drafted claims in the provisional**.
@@ -66,6 +70,8 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 4. Other tips:
     - To prevent design around, broaden claims in the continuation.
     - Draft broader claims in the continuation that you didn't claim in the parent and that are not in the cited art.
+
+## Continuation In Part
 
 ***
 
