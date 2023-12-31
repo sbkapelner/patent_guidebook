@@ -8,7 +8,9 @@ layout: normal
 [Obviousness Review Procedure](#obviousness-review-procedure)\
 [Practical Tips](#practical-tips)\
 [DRAFTING](#drafting)\
+[Application Drafting Steps](#application-drafting-steps)\
 [General Claim Drafting](#general-claim-drafting)\
+[Types of Claim Sets](#types-of-claim-sets)\
 [Continuation Claim Set](#continuation-claim-set)\
 [Continuation In Part](#continuation-in-part)\
 [NATIONAL STAGE FILINGS OF PCT APPLICTIONS](#national-stage-filings-of-pct-applications)\
@@ -18,7 +20,8 @@ layout: normal
 [BILLING](#billing)\
 [MISCELLANEOUS](#miscellaneous)\
 [Partner Emails](#partner-emails)\
-[Partner Calls](#partner-calls)
+[Partner Calls](#partner-calls)\
+[Foreign Associate Correspondance][#foreign-associate-correspondance]\
 
 ***
 
@@ -51,7 +54,7 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 9. Inoperable combination
 10. Elements needd to be modified in order to combine and the mods are not found in the prior art
 11. **TSM - Lack of TSM to combine in the art.**
-    11. **Did the examiner provide a reasoned articulation?**
+12. **Did the examiner provide a reasoned articulation?**
 
 ## Practical Tips
 
@@ -60,8 +63,32 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 ***
 
 # DRAFTING
+## Application Drafting Steps
+1. Do not write claims first! Make Figures.
+2. Write the Detailed Description i.e. describe the Figures
+    - A monolith can be overwhelming. Create a separate file for each Figure and they copy and paste into the monolith.
+3. Draft the claims.
+    - Identify claim categories.
+    - Scan the specification from top to bottom for each category.
+4. Write the Summary as the claims written in prose.
+5. Write the Abstract as the broadest claim written in prose and cut down to 150 words.
 
 ## General Claim Drafting
+1. At least one vs. one or more
+    - "corresponding" can be used to refer back to the "one or more" with less words
+2. A first widget in claim 1, a second widget in claim 2 is easier to read than "one or more"
+3. If you use a nonce term ("element", "member", "processor", etc.), you need to put several examples of what that means in the specification.
+4. Be careful because "Functional claim language that is not limited to a specific structure covers all devices that are capable of performing the recited function. Therefore, if the prior art discloses a device that can inherently perform the claimed function, a rejection under 35 U.S.C. 102 and/or 35 U.S.C. 103 may be appropriate." MPEP 2114.
+
+## Types of Claim Sets
+1. US
+    - 20 claims
+2. PCT
+    - Copy the U.S. claim set
+    - Convert to multiple dependent form ("The widget of any of claims 1 - n-1" if the dependent claim n depends from claim 1 and is not the first dependent claim to appear in the claim set)
+3. EPO
+    - 15 claims
+    - Multiple dependent form OK and encouraged
 
 ## Continuation Claim Set
 1. Check if there are **already drafted claims in the provisional**.
@@ -122,6 +149,14 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 1. Open with this is case number: 12345 (matter id)
 2. No files on mac --> will likely need to share screen
 
+## Foreign Associate Correspondance
+1. Things you will likely have them prepare:
+    - Voluntary Amendments
+    - PPH request
+2. Look at the U.S. allowed claims and use for the voluntary amendments.
+    - Verify that there are no antecedent basis problems with the U.S. allowed claims because I have seen this happen.
+3. If you ask for a PPH request, attach the Notice of Allowance from the U.S. Application to the email.
+
 ***
 
 <br>
@@ -131,3 +166,5 @@ Copyright (c) 2023 Sarah Kapelner.
 All Rights Reserved.
 <br>
 <br>
+
+[def]: #foreign-associate-correspondance
