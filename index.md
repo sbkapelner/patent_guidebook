@@ -21,7 +21,7 @@ layout: normal
 [MISCELLANEOUS](#miscellaneous)\
 [Partner Emails](#partner-emails)\
 [Partner Calls](#partner-calls)\
-[Foreign Associate Correspondance][#foreign-associate-correspondance]\
+[Foreign Associate Correspondance](#foreign-associate-correspondance)
 
 ***
 
