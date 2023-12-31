@@ -166,5 +166,3 @@ Copyright (c) 2023 Sarah Kapelner.
 All Rights Reserved.
 <br>
 <br>
-
-[def]: #foreign-associate-correspondance
