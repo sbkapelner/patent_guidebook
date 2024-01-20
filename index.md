@@ -138,7 +138,7 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 
 ## How to Read a Patent or Patent Application
 1. Grab the EPO INPADOC report for patent family information and Latest Legal Events.
-2. Grab the Patent Public Search report and note the continuity data.
+2. Grab the Patent Public Search report first page and note the continuity data.
 3. Print the Figures.
 4. Read the Abstract and Background.
 5. Read the Detailed Description and label the Figures.
