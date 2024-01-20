@@ -17,6 +17,10 @@ layout: normal
 [Patent Prosecution Highway](#patent-prosecution-highway)\
 [PPH Requirements by Country](#patent-prosecution-highway)\
 [Table of Excess Claim Fees by Country](#table-of-excess-claim-fees-by-country)\
+[FREEDOM TO OPERATE](#freedom-to-operate)\
+[How to Read a Patent or Patent Application](#how-to-read-a-patent-or-patent-application)\
+[Infringment Analysis](#infringement-analysis)\
+[Invalidity Analysis](#invalidity-analysis)\
 [BILLING](#billing)\
 [MISCELLANEOUS](#miscellaneous)\
 [Partner Emails](#partner-emails)\
