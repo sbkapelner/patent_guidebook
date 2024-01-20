@@ -130,6 +130,26 @@ How does the cited reference map to the claimed invention? Get the drawings up a
 
 ***
 
+# Freedom to Operate
+
+## How to Read a Patent or Patent Application
+1. Grab the EPO INPADOC report for patent family information and Latest Legal Events.
+2. Grab the Patent Public Search report and note the continuity data.
+3. Print the Figures.
+4. Read the Abstract and Background.
+5. Read the Detailed Description and label the Figures.
+6. Read the broadest claim and summarize in laymans terms what they are getting.
+
+## Infringement Analysis
+- Make a chart of claims vs client's product but annotate what each of the claim terms mean in light of the specification. Make a word doc and then and then save it as a PDF and add annotations in the left (claims) column stating what each term means and where to find a more detailed explanation in the specification.
+
+## Invalidity Analysis
+1. Read the PCT preliminary report on patent ability if applicable. Use the references from this. If you don’t have this, I guess you have to use the references cited during prosecution history.  
+2. Make a claim chart. In the right column of the claim chart try to invalidate the claim.
+3. Make a summary table of references relied upon and each claims status (102 or 103 or None)
+
+***
+
 # BILLING
 - Office Action Response = $3,000 - $3,200 (for experienced attorney)
     - If you are going to exceed this ask the billing attorney permission to bill more.
