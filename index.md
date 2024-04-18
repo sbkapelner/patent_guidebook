@@ -157,6 +157,15 @@ Option 3: Amend the claims.
 
 ***
 
+## Table of Voluntary Amendment Notes by Country
+
+| Country           | Notes | 
+| :---------------- | :--------------- |
+| JP                | None             |
+| Brazil            | After request for examination cannot: remove features from the claims (broaden), change claim category, add new independent claims After request for examination can: add dependent, add features supported by original spec and claims, remove words to clarify              |
+
+***
+
 # Freedom to Operate
 
 ## How to Read a Patent or Patent Application
