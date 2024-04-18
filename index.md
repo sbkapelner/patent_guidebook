@@ -161,7 +161,7 @@ Option 3: Amend the claims.
 
 | Country           | Notes | 
 | :---------------- | :--------------- |
-| JP                | None             |
+| JP                | No multi-multi; no excess claim fees; more claims will increase examination fee, however             |
 | Brazil            | After request for examination cannot: remove features from the claims (broaden), change claim category, add new independent claims After request for examination can: add dependent, add features supported by original spec and claims, remove words to clarify. Foreign counsel recommends adding independent claims from pending US CON or DIVs              |
 
 ***
