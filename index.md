@@ -22,6 +22,7 @@ layout: normal
 [Table of Voluntary Amendment Notes by Country](#table-of-voluntary-amendment-notes-by-country)\
 [FREEDOM TO OPERATE](#freedom-to-operate)\
 [How to Read a Patent or Patent Application](#how-to-read-a-patent-or-patent-application)\
+[FTO Generally](#fto-generally)\
 [Infringment Analysis](#infringement-analysis)\
 [Invalidity Analysis](#invalidity-analysis)\
 [BILLING](#billing)\
@@ -178,6 +179,10 @@ Option 3: Amend the claims.
 4. Read the Abstract and Background.
 5. Read the Detailed Description and label the Figures.
 6. Read the broadest claim and summarize in laymans terms what they are getting.
+
+## FTO Generally
+### Invalidity/Non-infringement Analysis Cover Sheets
+- Does Google Patents say adjusted expiration? If so there is PTA and you should note the number of days. Put "Adjusted Expiration: DATE" If not you can put "Regular Expiration: DATE"
 
 ## Infringement Analysis
 
