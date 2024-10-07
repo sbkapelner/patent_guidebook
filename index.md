@@ -181,8 +181,10 @@ Option 3: Amend the claims.
 6. Read the broadest claim and summarize in laymans terms what they are getting.
 
 ## FTO Generally
-### Invalidity/Non-infringement Analysis Cover Sheets
+### Invalidity/Non-infringement Analysis Formatting
 - Does Google Patents say adjusted expiration? If so there is PTA and you should note the number of days. Put "Adjusted Expiration: DATE" If not you can put "Regular Expiration: DATE"
+- You only need to use (Smith) or whatever the references if there are multiple for the limitation. So when you first start charting you need not do a parenthetical of the reference until you bring in another reference.
+- This is a Blue Book Cite: Hoey at  42 (“In this embodiment, the outer surface of the pedicle screw may be non-conductive except for the surface of the head and tip of the pedicle screw. Likewise, the outer surface of the pedicle probe is non-conductive except for the distal and proximal ends of the probe. A conductive lead is then applied to the head of the pedicle screw or proximal end of the pedicle probe to conduct a signal to the tip of the screw or probe.”) 
 
 ## Infringement Analysis
 
@@ -193,6 +195,8 @@ Option 3: Amend the claims.
 1. Read the PCT preliminary report on patent ability if applicable. Use the references from this. If you don’t have this, I guess you have to use the references cited during prosecution history.  
 2. Make a claim chart. In the right column of the claim chart try to invalidate the claim.
 3. Make a summary table of references relied upon and each claims status (102 or 103 or None)
+- MTC Example: A POSITA would have been motivated to combine the probe of Josephs with the Jameson, Gordon combination because it allows neuromonitoring to be performed as taught by Jameson. A POSITA would have been motivated to add a probe to Gordon so as to add removable electrodes to the device of Gordon.
+- KSM language: "high probability of success," TBD
 
 ***
 
