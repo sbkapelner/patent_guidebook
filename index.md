@@ -29,7 +29,8 @@ layout: normal
 [MISCELLANEOUS](#miscellaneous)\
 [Partner Emails](#partner-emails)\
 [Partner Calls](#partner-calls)\
-[Foreign Associate Correspondance](#foreign-associate-correspondance)
+[Foreign Associate Correspondance](#foreign-associate-correspondance)\
+[Search Firm Correspondance](#search-firm-correspondance)
 
 ***
 
@@ -228,6 +229,9 @@ Option 3: Amend the claims.
 2. Look at the U.S. allowed claims and use for the voluntary amendments.
     - Verify that there are no antecedent basis problems with the U.S. allowed claims because I have seen this happen.
 3. If you ask for a PPH request, attach the Notice of Allowance from the U.S. Application to the email.
+
+## Search Firm Correspondance
+RE: Confidential CIP Search Request SEARCH SUBJECT (FRIM REF CLIENT REF) (CIP REF)
 
 ***
 
