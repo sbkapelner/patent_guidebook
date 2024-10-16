@@ -78,6 +78,9 @@ Option 3: Amend the claims.
 
 1. If the OA has a good number of allowed claims: ask the managing attorney to ask client if OK with moving forward with allowed claims. And file continuations for outstanding limitations. Helps avoid allowance withdrawals.
 
+## Office Action Checklist
+1. DO NOT INCLUDE SIGNATURE IN DRAFT RESPONSES.
+
 ***
 
 # DRAFTING
@@ -231,7 +234,9 @@ Option 3: Amend the claims.
 3. If you ask for a PPH request, attach the Notice of Allowance from the U.S. Application to the email.
 
 ## Search Firm Correspondance
-RE: Confidential CIP Search Request SEARCH SUBJECT (FRIM REF CLIENT REF) (CIP REF)
+### Propsal Request Checklist
+1. Include a subhect line as follows: RE: Confidential CIP Search Request SEARCH SUBJECT (FRIM REF CLIENT REF) (CIP REF)
+2. Do not attach invention disclosure documents. PPTs and PDFs OK.
 
 ***
 
