@@ -25,6 +25,7 @@ layout: normal
 [FTO Generally](#fto-generally)\
 [Infringment Analysis](#infringement-analysis)\
 [Invalidity Analysis](#invalidity-analysis)\
+[Reveiwing IDS](#reviewing-IDS)\
 [BILLING](#billing)\
 [MISCELLANEOUS](#miscellaneous)\
 [Partner Emails](#partner-emails)\
@@ -201,6 +202,19 @@ Option 3: Amend the claims.
 3. Make a summary table of references relied upon and each claims status (102 or 103 or None)
 - MTC Example: A POSITA would have been motivated to combine the probe of Josephs with the Jameson, Gordon combination because it allows neuromonitoring to be performed as taught by Jameson. A POSITA would have been motivated to add a probe to Gordon so as to add removable electrodes to the device of Gordon.
 - KSM language: "high probability of success," TBD
+
+***
+
+# Reviewing IDS
+1. Make sure the reference number and attachments are correct.
+2. Make sure the attachments are correct and there is no attorney markings on them.
+3. Is a particular reference relative to this case or another case? Call if the claims raise an issue or if we need to cite elsewhere.
+4. Is a certification, fee or both needed?
+    - Before Non-Final - none
+    - Between Non-Final and Final - fee or cert
+    - After Final - both
+5. Make sure the international search report itself is filed. I am not sure about foreign office actions but if the PCT has not entered the National Stage there are none.
+6. Sign
 
 ***
 
