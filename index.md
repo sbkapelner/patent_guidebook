@@ -213,8 +213,9 @@ Option 3: Amend the claims.
     - Before Non-Final - none
     - Between Non-Final and Final - fee or cert
     - After Final - both
-5. Make sure the international search report itself is filed. I am not sure about foreign office actions but if the PCT has not entered the National Stage there are none.
-6. Sign
+5. Make sure the international search report itself is filed. 
+6. If there are foreign sister cases with additional art cited we would cite it in the corresponding U.S. case. Note if the PCT has not entered the National Stage there are none.
+7. Sign
 
 ***
 
