@@ -27,6 +27,7 @@ layout: normal
 [Invalidity Analysis](#invalidity-analysis)\
 [Reveiwing IDS](#reviewing-IDS)\
 [BILLING](#billing)\
+[FILING](#filing)\
 [MISCELLANEOUS](#miscellaneous)\
 [Partner Emails](#partner-emails)\
 [Partner Calls](#partner-calls)\
@@ -224,6 +225,16 @@ Option 3: Amend the claims.
 - Office Action Response = $3,000 - $3,200 (for experienced attorney)
     - If you are going to exceed this ask the billing attorney permission to bill more.
     - If you are the billing attorney, confer with the client.
+
+***
+
+# Filing
+## Office Action Responses
+1. Login to Patent Center
+2. Select existing submissings
+3. Select upload documents
+4. Upload in PDF a MIcrosoft Print to PDF
+5. If you already paid the fee select skip paying fees
 
 ***
 
