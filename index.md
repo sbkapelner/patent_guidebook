@@ -14,6 +14,7 @@ layout: normal
 [Types of Claim Sets](#types-of-claim-sets)\
 [Continuation Claim Set](#continuation-claim-set)\
 [Continuation In Part](#continuation-in-part)\
+[Prioroty Claims](#priority-claims)\
 [Drawings](#drawings)\
 [NATIONAL STAGE FILINGS OF PCT APPLICTIONS](#national-stage-filings-of-pct-applications)\
 [Patent Prosecution Highway](#patent-prosecution-highway)\
@@ -127,6 +128,17 @@ Option 3: Amend the claims.
     - Draft broader claims in the continuation that you didn't claim in the parent and that are not in the cited art.
 
 ## Continuation In Part
+
+## Priority Claims
+### Provisional
+[0001]	The present application claims the **benefit of** U.S. Provisional Patent Application No. 63/557,124, filed February 23, 2024, entitled “NEUROMONITORING DILATORS, PROBES, AND CANNULATED BLADES FOR MODULAR TISSUE RETRACTOR” and which is incorporated herein by reference in its entirety.
+
+### Foreign
+**priority to**
+
+### Continuation or Divisional
+This application is a continuation in part of U.S. patent application Ser. No. 17 /246,932, titled Expandable InterBody Device, System, and Method, filed May 3, 2021 which is a continuation in part of U.S. patent application Ser. No. 17/123,889, titled Expandable Inter-Body Device, System, and Method, filed Dec. 16, 2020 which claims priority to and incorporates by reference co-related patent applications PCT/IB2020/000953, titled Expandable Inter-Body Device, System, and Method, filed Nov. 5, 2020; PCT/IB2020/000932, titled Screwdriver and Complimentary Screws, filed Nov. 5, 2020; and PCT/IB2020/000942, titled Expandable
+Inter-Body Device, System, and Method, filed Nov. 5, 2020. The contents of each are hereby incorporated in their entirety.
 
 ## Drawings
 
