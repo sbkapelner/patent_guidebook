@@ -7,6 +7,7 @@ layout: normal
 [Anticipation Presentation](#anticipation-presentation)\
 [Obviousness Review Procedure](#obviousness-review-procedure)\
 [Final Office Actions](#final-office-actions)\
+[After Final Practice](#after-final-practice)\
 [Practical Tips](#practical-tips)\
 [DRAFTING](#drafting)\
 [Application Drafting Steps](#application-drafting-steps)\
@@ -14,7 +15,7 @@ layout: normal
 [Types of Claim Sets](#types-of-claim-sets)\
 [Continuation Claim Set](#continuation-claim-set)\
 [Continuation In Part](#continuation-in-part)\
-[Prioroty Claims](#priority-claims)\
+[Priority Claims](#priority-claims)\
 [Drawings](#drawings)\
 [NATIONAL STAGE FILINGS OF PCT APPLICTIONS](#national-stage-filings-of-pct-applications)\
 [Patent Prosecution Highway](#patent-prosecution-highway)\
@@ -77,6 +78,16 @@ Option 2: Bolster your argument on appeal. This is the best option if you are ma
 
 Option 3: Amend the claims.
 
+## After Final Practice
+Responses to a Final Rejection Under 37 CFR 1.116
+- The Examinener does not get extra time like they did under AFCP 2.0. So these amendments must only require a cursory review by the Examiner.
+- Uses:
+    - Cancel claims
+    - Put the claims in better form for appeal
+    - Adopt the Exmainer's suggestion to put the claims in condition for allowance
+    - Comply with formal requirements set out in a prior Office Action
+    - Other amendment that "touches the merits of the application" with a showing of good cause.
+    
 ## Practical Tips
 
 1. If the OA has a good number of allowed claims: ask the managing attorney to ask client if OK with moving forward with allowed claims. And file continuations for outstanding limitations. Helps avoid allowance withdrawals.
